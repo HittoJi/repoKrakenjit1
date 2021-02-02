@@ -3,3 +3,4 @@
 (C) Benvinguda a la branca 02 jit
 (D) Modificació 02 Main jit
 (E) Afegim imatge a branca01.
+(F) Afegim imatge a branca02
