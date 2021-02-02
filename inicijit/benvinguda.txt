@@ -1,1 +1,2 @@
 (A) Benvinguda a la branca 01 jit
+(E) Afegim imatge a branca01.
